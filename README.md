@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">coder | frontend developer | open source enthusiasts</h3>
 
 - 🔭 I’m currently working on [Awesome-JavaScript-Projects](https://github.com/Meghag5/Awesome-JavaScript-Projects)
 
