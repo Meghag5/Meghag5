@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently a mentee in Microsoft Engage'21 and Microsoft Alpha Student Partner
 
-- 🌱 I’m currently learning **React Js and CP**
-
 - 🔭 I have worked on [Awesome-JavaScript-Projects](https://github.com/Meghag5/Awesome-JavaScript-Projects) and [NeoAlgo](https://github.com/Meghag5/NeoAlgo)
 
 - 🌱 I’m currently learning **React Js and CP**
