@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js and CP**
 
-- 💬 Ask me about **Html, Css, C++**
+- 💬 Ask me about **C++, Dsa, Html, Css, Boostrap, Javascript, React js**
 
 - 📫 How to reach me **meghagupta05012001@gmail.com**
 
