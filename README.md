@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, Dsa, Html, Css, Boostrap, Javascript, React js**
 
-- 📫 How to reach me **meghagupta05012001@gmail.com**
+- 📫 How to reach me **meghagupta.0501@gmail.com**
 
 - ⚡ Fun fact **I love singing, dancing and reading story books.**
 
