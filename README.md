@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Gupta</h1>
-<h3 align="center">coder | frontend developer | open source enthusiasts</h3>
+<h3 align="center">Software Engineer | coder | frontend developer | open source enthusiasts</h3>
 
 - 🌱 I’m currently a mentee in Microsoft Engage'21 and Microsoft Alpha Student Partner
 
